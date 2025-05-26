@@ -1,0 +1,7 @@
+__pycache__/
+
+# JSON files
+*.json
+
+# PEM files
+*.pem
